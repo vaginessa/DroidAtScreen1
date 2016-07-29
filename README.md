@@ -18,7 +18,7 @@ Execution
 Grab the application JAR file (droidAtScreen-*nnn*.jar) and double-click it or
 run it at the command-line with
 
-    $ java -jar droidAtScreen-0.4.jar
+    $ java -jar droidAtScreen-1.2.jar
 
 The application will search for the ADB (Android Debug Bridge) executable using the environment variables mentioned above.
 If it cannot find the executable, it will prompt you for the full path.
